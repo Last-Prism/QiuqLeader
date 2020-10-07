@@ -1,1 +1,1 @@
-github txt
+localshot txt
